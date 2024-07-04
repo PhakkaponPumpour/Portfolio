@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TicTacToe 4x4 with BOT",
+    "imageSrc": "projects/tictactoe.gif",
+    "description": "This is a project made to learn and practice the latest languages by building an app.",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "demo": "https://tictactoe4x4with-bot.netlify.app/",
+    "source": "https://github.com/PhakkaponPumpour/TicTacToe4x4-with-BOT?tab=readme-ov-file"
+  },
+  {
+    "title": "Updating",
+    "imageSrc": "projects/status.jpg",
+    "description": "This is a project made to learn and practice the latest languages by building an app.",
+    "skills": ["?", "?", "?", "?"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Updating",
+    "imageSrc": "projects/status.jpg",
+    "description": "This is a project made to learn and practice the latest languages by building an app.",
+    "skills": ["?", "?", "?", "?"],
+    "demo": "",
+    "source": ""
+  }
+]

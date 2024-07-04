@@ -1,0 +1,79 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #41377b 0%, #1a1631 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px 20px;
+  width: 370px; /* fixed width */
+  height: 450px; /* fixed height */
+  box-sizing: border-box;
+  overflow: hidden; /* Ensure content doesn't overflow */
+}
+
+.image {
+  margin-bottom: 10px; /* Adjusted margin */
+  width: 100%; /* Set width to 100% to fit the container */
+  height: 200px;
+  object-fit: cover; /* Ensure image fits the container without distortion */
+  border-radius: 10px; /* Matching container border radius */
+}
+
+.title {
+  font-size: 22px; /* Adjusted font size */
+  font-weight: 700;
+  margin-bottom: 10px; /* Add some margin for spacing */
+  color: var(--color-text); /* Ensure text color is readable */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.description {
+  font-size: 16px; /* Adjusted font size */
+  font-weight: 400;
+  color: var(--color-text-secondary); /* Ensure text color is readable */
+  flex-grow: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 10px; /* Adjusted margin */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 16px; /* Adjusted font size */
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 5px 20px; /* Adjusted padding */
+}
+
+.links {
+  width: 100%;
+  margin-top: 20px; /* Adjusted margin */
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 18px; /* Adjusted font size */
+  font-weight: 600;
+  border-radius: 100px;
+  background: #41377b;
+  padding: 5px 12px; /* Adjusted padding */
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "role": "Teacher Assistant",
+    "organisation": "Mae Fah Luang University",
+    "startDate": "Jan, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Business Data Analytics.",
+      "Object-Oriented Programming (OOP)."
+    ],
+    "imageSrc": "history/maefahluang-u.png"
+  },
+  {
+    "role": "Data Analytic (Part-time)",
+    "organisation": "Mae Fah Luang University",
+    "startDate": "Aug, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Development of an interactive application focusing on Business Intelligence (BI) for helping manage a large amount of data for Internal Audit Division(MFU)."
+    ],
+    "imageSrc": "history/maefahluang-u.png"
+  },
+  {
+    "role": "GAP years",
+    "organisation": "Military Service",
+    "startDate": "Dec, 2020",
+    "endDate": "Feb, 2023",
+    "experiences": [],
+    "imageSrc": "history/military.png"
+  },
+  {
+    "role": "Frontend Developer project Intern on 3rd years",
+    "organisation": "Mae Fah Luang University",
+    "startDate": "March, 2020",
+    "endDate": "May, 2020",
+    "experiences": [
+      "Develop a responsive tourist attraction website using HTML, CSS, Bootstrap,and JavaScript.",
+      "The project website show popular destinations, provide useful travel information, and incorporate elements like interactive maps, image galleries, and real-time updates for a visitor experience."
+    ],
+    "imageSrc": "history/maefahluang-u.png"
+  },
+  {
+    "role": "COVID-19",
+    "organisation": "Thailand",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "After the 2020 COVID-19 outbreak, Mae Fah Luang University required students to end their internships. The remaining internship period was completed with assignments from their Schools."
+    ],
+    "imageSrc": "history/covid-19.png"
+  },
+  {
+    "role": "Network support Engineer Intern on 3rd years",
+    "organisation": "Thai Airways",
+    "startDate": "Jan, 2020",
+    "endDate": "March, 2020",
+    "experiences": [
+      "Installation,Configurations Network Equipment (Router, Switch, Firewall).",
+      "Physical work; assist in server movement and racking.",
+      "Manage and troubleshoot problems in cabling and racks.",
+      "Co-operate with product vendors to implement network solution.",
+      "Prepare required network reports."
+    ],
+    "imageSrc": "history/thaiairway.png"
+  }
+]
