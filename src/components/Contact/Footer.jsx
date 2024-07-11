@@ -30,8 +30,8 @@ export const Footer = () => {
             <ul>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1N6LbJL1Tgau4GJeAfn-GHnEMpmB7HewF/view?usp=sharing"
-                  target="https://drive.google.com/file/d/1N6LbJL1Tgau4GJeAfn-GHnEMpmB7HewF/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1rtxe53CB15HtoF_XZMwZQSDKTf_I8veK/view?usp=drive_link"
+                  target="https://drive.google.com/file/d/1rtxe53CB15HtoF_XZMwZQSDKTf_I8veK/view?usp=drive_link"
                 >
                   CV
                 </a>
