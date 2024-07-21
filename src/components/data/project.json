@@ -5,15 +5,15 @@
     "description": "This is a project made to learn and practice the latest languages by building an app.",
     "skills": ["React", "Javascript", "HTML", "CSS"],
     "demo": "https://tictactoe4x4with-bot.netlify.app/",
-    "source": "https://github.com/PhakkaponPumpour/TicTacToe4x4-with-BOT?tab=readme-ov-file"
+    "source": "https://github.com/PhakkaponPumpour/TicTacToe4x4-with-BOT"
   },
   {
-    "title": "Updating",
-    "imageSrc": "projects/status.jpg",
+    "title": "LoginPage",
+    "imageSrc": "projects/loginpage1.png",
     "description": "This is a project made to learn and practice the latest languages by building an app.",
-    "skills": ["?", "?", "?", "?"],
-    "demo": "",
-    "source": ""
+    "skills": ["React", "TailwindCSS"],
+    "demo": "https://design-login-page1.netlify.app/",
+    "source": "https://github.com/PhakkaponPumpour/loginpage"
   },
   {
     "title": "Updating",
