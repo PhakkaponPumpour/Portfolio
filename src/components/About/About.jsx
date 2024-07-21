@@ -33,7 +33,13 @@ export const About = () => {
             <img src={getImageUrl("about/backend.png")} alt="Server Icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
-              <p>*** Currently learning and practicing about Node.js and MongoDB ***</p>
+              <p>
+                Backend Developer with a passion for creating efficient and
+                scalable web applications. Skilled in Node.js, Express, and
+                MongoDB. I enjoy solving complex problems and continuously
+                learning new technologies to enhance my skills and build robust,
+                high-performance applications.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
