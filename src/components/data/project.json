@@ -18,7 +18,7 @@
   {
     "title": "Simple Taskmanagement",
     "imageSrc": "projects/task1.png",
-    "description": "This is a project made to learn and practice about MERN project by Taskmanagement app.",
+    "description": "This is a project made to learn and practice about MERN project by Taskmanagement app. ( usernam:abc123, password:123 or you can have your own username)",
     "skills": ["React", "ExpressJS", "MongDB", "NodeJS", "TailwindCSS"],
     "demo": "https://simple-taskmanagement.netlify.app/login",
     "source": "https://github.com/PhakkaponPumpour/taskmanagement-frontend"
