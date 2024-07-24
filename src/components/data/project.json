@@ -16,10 +16,26 @@
     "source": "https://github.com/PhakkaponPumpour/loginpage"
   },
   {
+    "title": "Simple Taskmanagement",
+    "imageSrc": "projects/task1.png",
+    "description": "This is a project made to learn and practice about MERN project by Taskmanagement app.",
+    "skills": ["React", "ExpressJS", "MongDB", "NodeJS", "TailwindCSS"],
+    "demo": "https://simple-taskmanagement.netlify.app/login",
+    "source": "https://github.com/PhakkaponPumpour/taskmanagement-frontend"
+  },
+  {
     "title": "Updating",
     "imageSrc": "projects/status.jpg",
-    "description": "This is a project made to learn and practice the latest languages by building an app.",
-    "skills": ["?", "?", "?", "?"],
+    "description": "I will try to keep updating the project, but for now, I'm going to have a coffee first.",
+    "skills": ["?", "?", "?", "?", "?"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Updating",
+    "imageSrc": "projects/status.jpg",
+    "description": "I will try to keep updating the project, but for now, I'm going to have a coffee first.",
+    "skills": ["?", "?", "?", "?", "?"],
     "demo": "",
     "source": ""
   }

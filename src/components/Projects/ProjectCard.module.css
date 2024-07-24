@@ -8,7 +8,7 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px 20px;
   width: 370px; /* fixed width */
-  height: 450px; /* fixed height */
+  height: 500px; /* increased fixed height */
   box-sizing: border-box;
   overflow: hidden; /* Ensure content doesn't overflow */
 }
@@ -36,7 +36,7 @@
   font-weight: 400;
   color: var(--color-text-secondary); /* Ensure text color is readable */
   flex-grow: 1;
-  overflow: hidden;
+  overflow: auto; /* Allow scrolling for overflowing text */
   text-overflow: ellipsis;
 }
 
