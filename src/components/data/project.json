@@ -24,10 +24,10 @@
     "source": "https://github.com/PhakkaponPumpour/taskmanagement-frontend"
   },
   {
-    "title": "Updating",
+    "title": "Updating (Clone spotify)",
     "imageSrc": "projects/status.jpg",
     "description": "I will try to keep updating the project, but for now, I'm going to have a coffee first.",
-    "skills": ["?", "?", "?", "?", "?"],
+    "skills": ["NextJS", "Tailwind", "Typescript", "?", "?"],
     "demo": "",
     "source": ""
   },
