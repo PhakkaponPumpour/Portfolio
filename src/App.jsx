@@ -5,8 +5,20 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Project } from "./components/Projects/Project";
+import AOS from "aos";
+import "../node_modules/aos/dist/aos.css";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    AOS.init({
+      offset: 100,
+      duration: 700,
+      easing: "ease-in",
+      delay: 100,
+      once: "true",
+    });
+  });
   return (
     <div className={styles.App}>
       <Navbar />
@@ -14,7 +26,7 @@ function App() {
       <About />
       <Experience />
       <Project />
-      <Footer/>
+      <Footer />
     </div>
   );
 }

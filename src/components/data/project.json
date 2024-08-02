@@ -2,7 +2,7 @@
   {
     "title": "TicTacToe 4x4 with BOT",
     "imageSrc": "projects/tictactoe.gif",
-    "description": "This is a project made to learn and practice the latest languages by building an app.",
+    "description": "This project was made for learning and practice by building an app.",
     "skills": ["React", "Javascript", "HTML", "CSS"],
     "demo": "https://tictactoe4x4with-bot.netlify.app/",
     "source": "https://github.com/PhakkaponPumpour/TicTacToe4x4-with-BOT"
@@ -10,7 +10,7 @@
   {
     "title": "LoginPage",
     "imageSrc": "projects/loginpage1.png",
-    "description": "This is a project made to learn and practice the latest languages by building an app.",
+    "description": "This project was made for learning and practice by building an app.",
     "skills": ["React", "TailwindCSS"],
     "demo": "https://design-login-page1.netlify.app/",
     "source": "https://github.com/PhakkaponPumpour/loginpage"
@@ -18,7 +18,7 @@
   {
     "title": "Simple Taskmanagement",
     "imageSrc": "projects/task1.png",
-    "description": "This is a project made to learn and practice about MERN project by Taskmanagement app. ( usernam:abc123, password:abc123 or you can have your own username)",
+    "description": "This project was made for learning and practice about MERN project by building Taskmanagement app. ( usernam:abc123, password:abc123 or you can have your own username)",
     "skills": ["React", "ExpressJS", "MongDB", "NodeJS", "TailwindCSS"],
     "demo": "https://simple-taskmanagement.netlify.app/login",
     "source": "https://github.com/PhakkaponPumpour/taskmanagement-frontend"
@@ -30,6 +30,14 @@
     "skills": ["NextJS", "Tailwind", "Typescript", "?", "?"],
     "demo": "",
     "source": ""
+  },
+  {
+    "title": "Coffee cafe design",
+    "imageSrc": "projects/coffeeshop.gif",
+    "description": "This project was made for learning and practice by building an app.",
+    "skills": ["React", "TailwindCSS"],
+    "demo": "https://coffeecafe-p.netlify.app/",
+    "source": "https://github.com/PhakkaponPumpour/Coffeepage"
   },
   {
     "title": "Updating",

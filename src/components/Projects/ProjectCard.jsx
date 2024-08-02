@@ -11,7 +11,7 @@ export const ProjectCard = ({
       <img
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
-        className="w-full h-48  object-cover "
+        className="w-full h-48 "
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
