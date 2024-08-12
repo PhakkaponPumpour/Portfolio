@@ -40,6 +40,14 @@
     "source": "https://github.com/PhakkaponPumpour/Coffeepage"
   },
   {
+    "title": "MoviePage",
+    "imageSrc": "projects/moviepage.png",
+    "description": "Created a MoviePage using Next.js, styled with TailwindCSS, enhanced animations with Framer Motion, and fetched data from the TMDB API.",
+    "skills": ["NextJS", "TailwindCSS", "Frame motion", "TMDB API"],
+    "demo": "https://moviepage-chi.vercel.app/discover/now_playing",
+    "source": "https://github.com/PhakkaponPumpour/moviepage"
+  },
+  {
     "title": "Updating",
     "imageSrc": "projects/status.jpg",
     "description": "I will try to keep updating the project, but for now, I'm going to have a coffee first.",

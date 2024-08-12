@@ -20,6 +20,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "NextJS",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
     "title": "TailwindCSS",
     "imageSrc": "skills/tailwindcss.png"
   },
